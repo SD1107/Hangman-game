@@ -127,6 +127,6 @@ if count==1:
     print("          ***********THE END**********")
 else:
     print("Sorry you have run out of lives! Better luck next time!")
-    print(f"The correct wor was :{aim}!")
+    print(f"The correct word was :{aim}!")
     print("          ***********THE END**********")
     
